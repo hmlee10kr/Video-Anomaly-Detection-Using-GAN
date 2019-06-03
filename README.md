@@ -6,3 +6,4 @@
 # Coursera_Machine_Learning_Ex3
 # Coursera_Machine_Learning_Ex4
 # Coursera_Machine_Learning_Ex5
+# Coursera_Machine_Learning_Ex6
